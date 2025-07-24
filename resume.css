@@ -1,0 +1,39 @@
+body{
+    background-color:darkgray;
+    font-size: 15px;
+}
+
+.hd1
+{
+    margin-right: 10px;
+    display: inline-block;
+    
+}
+
+.p
+{
+    
+      line-height: 1.6;
+}
+
+.resume
+{
+    width:60%;
+    height: auto;
+    position: relative;
+    left:300px;
+    background-color: white;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.heading 
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.objective
+{
+    padding: 20px;
+}
