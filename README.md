@@ -1,6 +1,6 @@
-My Personal CV - HTML & Custom CSS
+My Personal resume- HTML & Custom CSS
 
-This repository contains the source code for my personal Curriculum Vitae (CV), built using plain HTML and styled with a dedicated custom CSS file. It's designed to be clean, readable, and easily customizable.
+This repository contains the source code for my personal resume, built using plain HTML and styled with a dedicated custom CSS file. It's designed to be clean, readable, and easily customizable.
 ✨ Features
 
     Clean & Professional Design: Styled with custom CSS for a clear and organized presentation.
@@ -11,26 +11,26 @@ This repository contains the source code for my personal Curriculum Vitae (CV), 
 
 🚀 Technologies Used
 
-    HTML5: For structuring the content of the CV.
+    HTML5: For structuring the content of the resume.
 
     CSS3: For styling and layout, defined in resume.css.
 
 💻 How to View/Use
 
-To view this CV:
+To view this resume:
 
     Clone the repository:
 
-    git clone https://github.com/SowmiyaBoopathi/your-cv-repo-name.git
+    git clone https://github.com/SowmiyaBoopathi/your-resume-repo-name.git
     cd your-cv-repo-name
 
-    (Note: Replace your-cv-repo-name with the actual name you give your repository.)
+    (Note: Replace your-resume-repo-name with the actual name you give your repository.)
 
     Open index.html: Simply open the index.html file in your preferred web browser. Ensure that resume.css is located in the same directory as index.html for the styles to apply correctly.
 
 🛠️ Customization
 
-You can easily customize this CV to fit your own details:
+You can easily customize this resume to fit your own details:
 
     Edit index.html:
 
